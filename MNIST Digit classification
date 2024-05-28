@@ -3,21 +3,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "14fba14c",
+   "id": "f20699d7",
    "metadata": {
     "_cell_guid": "b1076dfc-b9ad-4769-8c92-a6c4dae69d19",
     "_uuid": "8f2839f25d086af736a60e9eeb907d3b93b6e0e5",
     "execution": {
-     "iopub.execute_input": "2024-05-28T08:52:38.989898Z",
-     "iopub.status.busy": "2024-05-28T08:52:38.989616Z",
-     "iopub.status.idle": "2024-05-28T08:52:40.219382Z",
-     "shell.execute_reply": "2024-05-28T08:52:40.218377Z"
+     "iopub.execute_input": "2024-05-28T08:55:46.686705Z",
+     "iopub.status.busy": "2024-05-28T08:55:46.686405Z",
+     "iopub.status.idle": "2024-05-28T08:55:47.510756Z",
+     "shell.execute_reply": "2024-05-28T08:55:47.509746Z"
     },
     "papermill": {
-     "duration": 1.238167,
-     "end_time": "2024-05-28T08:52:40.222304",
+     "duration": 0.832995,
+     "end_time": "2024-05-28T08:55:47.513028",
      "exception": false,
-     "start_time": "2024-05-28T08:52:38.984137",
+     "start_time": "2024-05-28T08:55:46.680033",
      "status": "completed"
     },
     "tags": []
@@ -56,19 +56,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "f679bc48",
+   "id": "c0690886",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-05-28T08:52:40.232885Z",
-     "iopub.status.busy": "2024-05-28T08:52:40.232525Z",
-     "iopub.status.idle": "2024-05-28T08:53:00.330802Z",
-     "shell.execute_reply": "2024-05-28T08:53:00.329917Z"
+     "iopub.execute_input": "2024-05-28T08:55:47.524488Z",
+     "iopub.status.busy": "2024-05-28T08:55:47.523714Z",
+     "iopub.status.idle": "2024-05-28T08:56:01.874390Z",
+     "shell.execute_reply": "2024-05-28T08:56:01.873469Z"
     },
     "papermill": {
-     "duration": 20.105697,
-     "end_time": "2024-05-28T08:53:00.333061",
+     "duration": 14.358766,
+     "end_time": "2024-05-28T08:56:01.876910",
      "exception": false,
-     "start_time": "2024-05-28T08:52:40.227364",
+     "start_time": "2024-05-28T08:55:47.518144",
      "status": "completed"
     },
     "tags": []
@@ -78,9 +78,9 @@
      "name": "stderr",
      "output_type": "stream",
      "text": [
-      "2024-05-28 08:52:46.027096: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered\n",
-      "2024-05-28 08:52:46.027202: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered\n",
-      "2024-05-28 08:52:46.306739: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered\n"
+      "2024-05-28 08:55:51.052414: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered\n",
+      "2024-05-28 08:55:51.052521: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered\n",
+      "2024-05-28 08:55:51.199440: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered\n"
      ]
     }
    ],
@@ -104,19 +104,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "d607146e",
+   "id": "9b7b1629",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-05-28T08:53:00.343904Z",
-     "iopub.status.busy": "2024-05-28T08:53:00.343394Z",
-     "iopub.status.idle": "2024-05-28T08:53:05.834846Z",
-     "shell.execute_reply": "2024-05-28T08:53:05.834051Z"
+     "iopub.execute_input": "2024-05-28T08:56:01.896971Z",
+     "iopub.status.busy": "2024-05-28T08:56:01.896269Z",
+     "iopub.status.idle": "2024-05-28T08:56:07.279777Z",
+     "shell.execute_reply": "2024-05-28T08:56:07.278529Z"
     },
     "papermill": {
-     "duration": 5.499204,
-     "end_time": "2024-05-28T08:53:05.837118",
+     "duration": 5.3946,
+     "end_time": "2024-05-28T08:56:07.282428",
      "exception": false,
-     "start_time": "2024-05-28T08:53:00.337914",
+     "start_time": "2024-05-28T08:56:01.887828",
      "status": "completed"
     },
     "tags": []
@@ -133,19 +133,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "f4fcb162",
+   "id": "1586c8a8",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-05-28T08:53:05.847978Z",
-     "iopub.status.busy": "2024-05-28T08:53:05.847403Z",
-     "iopub.status.idle": "2024-05-28T08:53:05.881425Z",
-     "shell.execute_reply": "2024-05-28T08:53:05.880456Z"
+     "iopub.execute_input": "2024-05-28T08:56:07.296075Z",
+     "iopub.status.busy": "2024-05-28T08:56:07.295326Z",
+     "iopub.status.idle": "2024-05-28T08:56:07.326280Z",
+     "shell.execute_reply": "2024-05-28T08:56:07.325329Z"
     },
     "papermill": {
-     "duration": 0.041618,
-     "end_time": "2024-05-28T08:53:05.883639",
+     "duration": 0.040026,
+     "end_time": "2024-05-28T08:56:07.328760",
      "exception": false,
-     "start_time": "2024-05-28T08:53:05.842021",
+     "start_time": "2024-05-28T08:56:07.288734",
      "status": "completed"
     },
     "tags": []
@@ -246,19 +246,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "2e7f928c",
+   "id": "2e87f077",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-05-28T08:53:05.893951Z",
-     "iopub.status.busy": "2024-05-28T08:53:05.893686Z",
-     "iopub.status.idle": "2024-05-28T08:53:05.974805Z",
-     "shell.execute_reply": "2024-05-28T08:53:05.973999Z"
+     "iopub.execute_input": "2024-05-28T08:56:07.339820Z",
+     "iopub.status.busy": "2024-05-28T08:56:07.339500Z",
+     "iopub.status.idle": "2024-05-28T08:56:07.423651Z",
+     "shell.execute_reply": "2024-05-28T08:56:07.422531Z"
     },
     "papermill": {
-     "duration": 0.088694,
-     "end_time": "2024-05-28T08:53:05.977141",
+     "duration": 0.092593,
+     "end_time": "2024-05-28T08:56:07.426260",
      "exception": false,
-     "start_time": "2024-05-28T08:53:05.888447",
+     "start_time": "2024-05-28T08:56:07.333667",
      "status": "completed"
     },
     "tags": []
@@ -272,19 +272,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "6640ccda",
+   "id": "5e6d5729",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-05-28T08:53:05.987988Z",
-     "iopub.status.busy": "2024-05-28T08:53:05.987682Z",
-     "iopub.status.idle": "2024-05-28T08:53:06.092144Z",
-     "shell.execute_reply": "2024-05-28T08:53:06.091347Z"
+     "iopub.execute_input": "2024-05-28T08:56:07.438800Z",
+     "iopub.status.busy": "2024-05-28T08:56:07.438463Z",
+     "iopub.status.idle": "2024-05-28T08:56:07.547757Z",
+     "shell.execute_reply": "2024-05-28T08:56:07.546569Z"
     },
     "papermill": {
-     "duration": 0.112734,
-     "end_time": "2024-05-28T08:53:06.094728",
+     "duration": 0.118471,
+     "end_time": "2024-05-28T08:56:07.550489",
      "exception": false,
-     "start_time": "2024-05-28T08:53:05.981994",
+     "start_time": "2024-05-28T08:56:07.432018",
      "status": "completed"
     },
     "tags": []
@@ -298,19 +298,19 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "bba2f579",
+   "id": "2a2cf578",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-05-28T08:53:06.105869Z",
-     "iopub.status.busy": "2024-05-28T08:53:06.105589Z",
-     "iopub.status.idle": "2024-05-28T08:53:06.485892Z",
-     "shell.execute_reply": "2024-05-28T08:53:06.485083Z"
+     "iopub.execute_input": "2024-05-28T08:56:07.563379Z",
+     "iopub.status.busy": "2024-05-28T08:56:07.562604Z",
+     "iopub.status.idle": "2024-05-28T08:56:07.949731Z",
+     "shell.execute_reply": "2024-05-28T08:56:07.948664Z"
     },
     "papermill": {
-     "duration": 0.388371,
-     "end_time": "2024-05-28T08:53:06.488252",
+     "duration": 0.395912,
+     "end_time": "2024-05-28T08:56:07.952252",
      "exception": false,
-     "start_time": "2024-05-28T08:53:06.099881",
+     "start_time": "2024-05-28T08:56:07.556340",
      "status": "completed"
     },
     "tags": []
@@ -323,19 +323,19 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "d20242eb",
+   "id": "103a9920",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-05-28T08:53:06.498647Z",
-     "iopub.status.busy": "2024-05-28T08:53:06.498359Z",
-     "iopub.status.idle": "2024-05-28T08:53:07.551513Z",
-     "shell.execute_reply": "2024-05-28T08:53:07.550767Z"
+     "iopub.execute_input": "2024-05-28T08:56:07.964654Z",
+     "iopub.status.busy": "2024-05-28T08:56:07.963828Z",
+     "iopub.status.idle": "2024-05-28T08:56:08.897700Z",
+     "shell.execute_reply": "2024-05-28T08:56:08.896825Z"
     },
     "papermill": {
-     "duration": 1.060622,
-     "end_time": "2024-05-28T08:53:07.553583",
+     "duration": 0.942476,
+     "end_time": "2024-05-28T08:56:08.900095",
      "exception": false,
-     "start_time": "2024-05-28T08:53:06.492961",
+     "start_time": "2024-05-28T08:56:07.957619",
      "status": "completed"
     },
     "tags": []
@@ -366,19 +366,19 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "a2869c6d",
+   "id": "03c1aad7",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-05-28T08:53:07.564014Z",
-     "iopub.status.busy": "2024-05-28T08:53:07.563750Z",
-     "iopub.status.idle": "2024-05-28T08:53:07.576150Z",
-     "shell.execute_reply": "2024-05-28T08:53:07.575482Z"
+     "iopub.execute_input": "2024-05-28T08:56:08.911958Z",
+     "iopub.status.busy": "2024-05-28T08:56:08.911425Z",
+     "iopub.status.idle": "2024-05-28T08:56:08.924626Z",
+     "shell.execute_reply": "2024-05-28T08:56:08.923875Z"
     },
     "papermill": {
-     "duration": 0.019802,
-     "end_time": "2024-05-28T08:53:07.578177",
+     "duration": 0.021208,
+     "end_time": "2024-05-28T08:56:08.926689",
      "exception": false,
-     "start_time": "2024-05-28T08:53:07.558375",
+     "start_time": "2024-05-28T08:56:08.905481",
      "status": "completed"
     },
     "tags": []
@@ -391,19 +391,19 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "4f08e194",
+   "id": "b9ac6447",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-05-28T08:53:07.588197Z",
-     "iopub.status.busy": "2024-05-28T08:53:07.587918Z",
-     "iopub.status.idle": "2024-05-28T08:53:44.041999Z",
-     "shell.execute_reply": "2024-05-28T08:53:44.041249Z"
+     "iopub.execute_input": "2024-05-28T08:56:08.937869Z",
+     "iopub.status.busy": "2024-05-28T08:56:08.937602Z",
+     "iopub.status.idle": "2024-05-28T08:56:45.973975Z",
+     "shell.execute_reply": "2024-05-28T08:56:45.973216Z"
     },
     "papermill": {
-     "duration": 36.461593,
-     "end_time": "2024-05-28T08:53:44.044218",
+     "duration": 37.044363,
+     "end_time": "2024-05-28T08:56:45.976043",
      "exception": false,
-     "start_time": "2024-05-28T08:53:07.582625",
+     "start_time": "2024-05-28T08:56:08.931680",
      "status": "completed"
     },
     "tags": []
@@ -414,7 +414,7 @@
      "output_type": "stream",
      "text": [
       "Epoch 1/10\n",
-      "\u001b[1m  69/1050\u001b[0m \u001b[32m━\u001b[0m\u001b[37m━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[1m2s\u001b[0m 2ms/step - accuracy: 0.3151 - loss: 1.9642"
+      "\u001b[1m  74/1050\u001b[0m \u001b[32m━\u001b[0m\u001b[37m━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[1m2s\u001b[0m 2ms/step - accuracy: 0.3717 - loss: 1.8626"
      ]
     },
     {
@@ -422,47 +422,32 @@
      "output_type": "stream",
      "text": [
       "WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\n",
-      "I0000 00:00:1716886395.222329      73 device_compiler.h:186] Compiled cluster using XLA!  This line is logged at most once for the lifetime of the process.\n",
-      "W0000 00:00:1716886395.240227      73 graph_launch.cc:671] Fallback to op-by-op mode because memset node breaks graph update\n"
+      "I0000 00:00:1716886575.707148      72 device_compiler.h:186] Compiled cluster using XLA!  This line is logged at most once for the lifetime of the process.\n"
      ]
     },
     {
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "\u001b[1m1042/1050\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m━\u001b[0m \u001b[1m0s\u001b[0m 2ms/step - accuracy: 0.7725 - loss: 0.6936"
-     ]
-    },
-    {
-     "name": "stderr",
-     "output_type": "stream",
-     "text": [
-      "W0000 00:00:1716886398.350816      73 graph_launch.cc:671] Fallback to op-by-op mode because memset node breaks graph update\n"
-     ]
-    },
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "\u001b[1m1050/1050\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m12s\u001b[0m 4ms/step - accuracy: 0.7736 - loss: 0.6906 - val_accuracy: 0.9781 - val_loss: 0.0668\n",
+      "\u001b[1m1050/1050\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m11s\u001b[0m 4ms/step - accuracy: 0.7940 - loss: 0.6337 - val_accuracy: 0.9726 - val_loss: 0.0803\n",
       "Epoch 2/10\n",
-      "\u001b[1m1050/1050\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m2s\u001b[0m 2ms/step - accuracy: 0.9664 - loss: 0.1205 - val_accuracy: 0.9806 - val_loss: 0.0569\n",
+      "\u001b[1m1050/1050\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m3s\u001b[0m 3ms/step - accuracy: 0.9658 - loss: 0.1157 - val_accuracy: 0.9832 - val_loss: 0.0463\n",
       "Epoch 3/10\n",
-      "\u001b[1m1050/1050\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m3s\u001b[0m 2ms/step - accuracy: 0.9780 - loss: 0.0825 - val_accuracy: 0.9874 - val_loss: 0.0414\n",
+      "\u001b[1m1050/1050\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m3s\u001b[0m 3ms/step - accuracy: 0.9775 - loss: 0.0789 - val_accuracy: 0.9846 - val_loss: 0.0491\n",
       "Epoch 4/10\n",
-      "\u001b[1m1050/1050\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m3s\u001b[0m 3ms/step - accuracy: 0.9826 - loss: 0.0597 - val_accuracy: 0.9887 - val_loss: 0.0349\n",
+      "\u001b[1m1050/1050\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m3s\u001b[0m 3ms/step - accuracy: 0.9826 - loss: 0.0578 - val_accuracy: 0.9883 - val_loss: 0.0356\n",
       "Epoch 5/10\n",
-      "\u001b[1m1050/1050\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m3s\u001b[0m 3ms/step - accuracy: 0.9845 - loss: 0.0520 - val_accuracy: 0.9900 - val_loss: 0.0320\n",
+      "\u001b[1m1050/1050\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m3s\u001b[0m 3ms/step - accuracy: 0.9845 - loss: 0.0496 - val_accuracy: 0.9875 - val_loss: 0.0427\n",
       "Epoch 6/10\n",
-      "\u001b[1m1050/1050\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m3s\u001b[0m 3ms/step - accuracy: 0.9872 - loss: 0.0432 - val_accuracy: 0.9906 - val_loss: 0.0321\n",
+      "\u001b[1m1050/1050\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m3s\u001b[0m 3ms/step - accuracy: 0.9887 - loss: 0.0357 - val_accuracy: 0.9887 - val_loss: 0.0407\n",
       "Epoch 7/10\n",
-      "\u001b[1m1050/1050\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m3s\u001b[0m 3ms/step - accuracy: 0.9905 - loss: 0.0340 - val_accuracy: 0.9911 - val_loss: 0.0289\n",
+      "\u001b[1m1050/1050\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m3s\u001b[0m 3ms/step - accuracy: 0.9899 - loss: 0.0318 - val_accuracy: 0.9898 - val_loss: 0.0310\n",
       "Epoch 8/10\n",
-      "\u001b[1m1050/1050\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m3s\u001b[0m 3ms/step - accuracy: 0.9898 - loss: 0.0334 - val_accuracy: 0.9907 - val_loss: 0.0331\n",
+      "\u001b[1m1050/1050\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m3s\u001b[0m 3ms/step - accuracy: 0.9928 - loss: 0.0263 - val_accuracy: 0.9905 - val_loss: 0.0375\n",
       "Epoch 9/10\n",
-      "\u001b[1m1050/1050\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m3s\u001b[0m 3ms/step - accuracy: 0.9917 - loss: 0.0302 - val_accuracy: 0.9913 - val_loss: 0.0318\n",
+      "\u001b[1m1050/1050\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m3s\u001b[0m 3ms/step - accuracy: 0.9915 - loss: 0.0277 - val_accuracy: 0.9893 - val_loss: 0.0376\n",
       "Epoch 10/10\n",
-      "\u001b[1m1050/1050\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m3s\u001b[0m 3ms/step - accuracy: 0.9914 - loss: 0.0277 - val_accuracy: 0.9927 - val_loss: 0.0268\n"
+      "\u001b[1m1050/1050\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m3s\u001b[0m 3ms/step - accuracy: 0.9928 - loss: 0.0217 - val_accuracy: 0.9901 - val_loss: 0.0389\n"
      ]
     }
    ],
@@ -473,19 +458,19 @@
   {
    "cell_type": "code",
    "execution_count": 11,
-   "id": "819ec547",
+   "id": "58257238",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-05-28T08:53:44.129064Z",
-     "iopub.status.busy": "2024-05-28T08:53:44.128771Z",
-     "iopub.status.idle": "2024-05-28T08:53:44.638164Z",
-     "shell.execute_reply": "2024-05-28T08:53:44.637012Z"
+     "iopub.execute_input": "2024-05-28T08:56:46.068239Z",
+     "iopub.status.busy": "2024-05-28T08:56:46.067915Z",
+     "iopub.status.idle": "2024-05-28T08:56:46.593153Z",
+     "shell.execute_reply": "2024-05-28T08:56:46.592161Z"
     },
     "papermill": {
-     "duration": 0.553456,
-     "end_time": "2024-05-28T08:53:44.640045",
+     "duration": 0.573416,
+     "end_time": "2024-05-28T08:56:46.595223",
      "exception": false,
-     "start_time": "2024-05-28T08:53:44.086589",
+     "start_time": "2024-05-28T08:56:46.021807",
      "status": "completed"
     },
     "tags": []
@@ -495,8 +480,8 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "\u001b[1m263/263\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m0s\u001b[0m 1ms/step - accuracy: 0.9913 - loss: 0.0344\n",
-      "Validation accuracy: 0.9927\n"
+      "\u001b[1m263/263\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m0s\u001b[0m 2ms/step - accuracy: 0.9897 - loss: 0.0448\n",
+      "Validation accuracy: 0.9901\n"
      ]
     }
    ],
@@ -508,19 +493,19 @@
   {
    "cell_type": "code",
    "execution_count": 12,
-   "id": "51d1e833",
+   "id": "f8c0328d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-05-28T08:53:44.726250Z",
-     "iopub.status.busy": "2024-05-28T08:53:44.725928Z",
-     "iopub.status.idle": "2024-05-28T08:53:46.947586Z",
-     "shell.execute_reply": "2024-05-28T08:53:46.946774Z"
+     "iopub.execute_input": "2024-05-28T08:56:46.690272Z",
+     "iopub.status.busy": "2024-05-28T08:56:46.689955Z",
+     "iopub.status.idle": "2024-05-28T08:56:49.058686Z",
+     "shell.execute_reply": "2024-05-28T08:56:49.057799Z"
     },
     "papermill": {
-     "duration": 2.267243,
-     "end_time": "2024-05-28T08:53:46.949890",
+     "duration": 2.418731,
+     "end_time": "2024-05-28T08:56:49.061065",
      "exception": false,
-     "start_time": "2024-05-28T08:53:44.682647",
+     "start_time": "2024-05-28T08:56:46.642334",
      "status": "completed"
     },
     "tags": []
@@ -530,21 +515,7 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "\u001b[1m114/875\u001b[0m \u001b[32m━━\u001b[0m\u001b[37m━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[1m1s\u001b[0m 1ms/step"
-     ]
-    },
-    {
-     "name": "stderr",
-     "output_type": "stream",
-     "text": [
-      "W0000 00:00:1716886425.358283      74 graph_launch.cc:671] Fallback to op-by-op mode because memset node breaks graph update\n"
-     ]
-    },
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "\u001b[1m875/875\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m1s\u001b[0m 1ms/step\n"
+      "\u001b[1m875/875\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m2s\u001b[0m 1ms/step\n"
      ]
     }
    ],
@@ -557,19 +528,19 @@
   {
    "cell_type": "code",
    "execution_count": 13,
-   "id": "f8bd079d",
+   "id": "b42fd809",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-05-28T08:53:47.041222Z",
-     "iopub.status.busy": "2024-05-28T08:53:47.040891Z",
-     "iopub.status.idle": "2024-05-28T08:53:47.080995Z",
-     "shell.execute_reply": "2024-05-28T08:53:47.080326Z"
+     "iopub.execute_input": "2024-05-28T08:56:49.163000Z",
+     "iopub.status.busy": "2024-05-28T08:56:49.162612Z",
+     "iopub.status.idle": "2024-05-28T08:56:49.205535Z",
+     "shell.execute_reply": "2024-05-28T08:56:49.204613Z"
     },
     "papermill": {
-     "duration": 0.087069,
-     "end_time": "2024-05-28T08:53:47.082810",
+     "duration": 0.096545,
+     "end_time": "2024-05-28T08:56:49.207703",
      "exception": false,
-     "start_time": "2024-05-28T08:53:46.995741",
+     "start_time": "2024-05-28T08:56:49.111158",
      "status": "completed"
     },
     "tags": []
@@ -578,6 +549,40 @@
    "source": [
     "submission = pd.DataFrame({'ImageId': range(1, len(predictions) + 1), 'Label': predictions})\n",
     "submission.to_csv('submission.csv', index=False)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 14,
+   "id": "0a0350b6",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-05-28T08:56:49.306066Z",
+     "iopub.status.busy": "2024-05-28T08:56:49.305726Z",
+     "iopub.status.idle": "2024-05-28T08:56:49.310537Z",
+     "shell.execute_reply": "2024-05-28T08:56:49.309575Z"
+    },
+    "papermill": {
+     "duration": 0.055072,
+     "end_time": "2024-05-28T08:56:49.312624",
+     "exception": false,
+     "start_time": "2024-05-28T08:56:49.257552",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "/kaggle/working\n"
+     ]
+    }
+   ],
+   "source": [
+    "import os\n",
+    "print(os.getcwd())\n"
    ]
   }
  ],
@@ -616,14 +621,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 75.032073,
-   "end_time": "2024-05-28T08:53:50.170421",
+   "duration": 68.343686,
+   "end_time": "2024-05-28T08:56:52.008954",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2024-05-28T08:52:35.138348",
+   "start_time": "2024-05-28T08:55:43.665268",
    "version": "2.5.0"
   }
  },
